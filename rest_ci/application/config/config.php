@@ -35,7 +35,7 @@ $config['base_url'] = ''; //ini saya coba yoga
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'index.php';
+$config['index_page'] = 'index.php'; //saya coba commit punya Mbak (Yuliani Indah)
 
 /*
 |--------------------------------------------------------------------------
